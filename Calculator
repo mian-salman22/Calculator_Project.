@@ -2,7 +2,11 @@
 using namespace std;
 
 int main() {
+ conflict_branch_2
     cout << "Name: faisal, Roll Number: 24ST060" << endl;
+
+    cout << "Name: salman, Roll Number: 24ST071" << endl;
+ main
     return 0;
 }
  Subtraction
