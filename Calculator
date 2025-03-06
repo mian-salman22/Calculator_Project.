@@ -5,6 +5,20 @@ int main() {
     cout << "Name: [Your Name], Roll Number: [Your Roll Number]" << endl;
     return 0;
 }
+ Subtraction
+ Multiplication
+ Division
+if (b != 0) {
+    cout << "Quotient: " << a / b << endl;
+} else {
+    cout << "Division by zero error!" << endl;
+}
+
+cout << "Product: " << a * b << endl;
+ Multiplication
+
+cout << "Difference: " << a - b << endl;
+ Subtraction
 #include <iostream>
 using namespace std;
 
@@ -13,3 +27,4 @@ int main() {
     cout << "Sum: " << a + b << endl;
     return 0;
 }
+ Addition
