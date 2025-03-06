@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    cout << "Name: [Your Name], Roll Number: [Your Roll Number]" << endl;
+    cout << "Name: faisal, Roll Number: 24ST060" << endl;
     return 0;
 }
  Subtraction
