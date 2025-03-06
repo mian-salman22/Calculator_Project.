@@ -5,3 +5,4 @@ int main() {
     cout << "Name: [Your Name], Roll Number: [Your Roll Number]" << endl;
     return 0;
 }
+cout << "Product: " << a * b << endl;
